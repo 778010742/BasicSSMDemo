@@ -1,0 +1,21 @@
+body{
+    background: #a4ffcb;
+}
+#mainBox{
+    height: 400px;
+    width: 600px;
+    margin: 0 auto;
+    background: aqua;
+}
+
+p{
+    width: 100%;
+   text-align: right;
+    font:20px black;
+}
+
+#showBox{
+    text-align: right;
+    width:400px;
+    margin-right: 200px;
+}

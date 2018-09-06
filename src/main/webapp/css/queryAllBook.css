@@ -1,0 +1,28 @@
+#mainBox{
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    border: solid black;
+    background-color: #94fafa;
+}
+body{
+    background-color: #a4ffcb;
+}
+table{
+    border:solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#mainBox>div:first-child{
+    width: 100%;
+    text-align: center;
+}
+
+td{
+    height: 50px;
+    border-collapse: collapse;
+    border: black;
+    border: solid;
+}
